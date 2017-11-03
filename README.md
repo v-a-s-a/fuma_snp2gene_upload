@@ -6,7 +6,7 @@ Some disclaimers: not guaranteed to work/be-stable. Storing any login informatio
 
 Clone the repository down:
 
-    git clone 
+    git clone https://github.com/vtrubets/fuma_snp2gene_upload.git
   
 If using conda to manage your environments, create a new `conda` environment:
 
