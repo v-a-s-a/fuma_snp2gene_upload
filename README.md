@@ -1,6 +1,6 @@
 # Upload files to FUMA
 
-Some disclaimers: not guaranteed to work/be-stable. Storing any login information in plain text is a bad idea.
+Not guaranteed to work/be-stable, storing any login information in plain text is a bad idea, etc.
 
 # Installation
 
